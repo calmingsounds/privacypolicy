@@ -4,7 +4,8 @@ Calming Sounds is provided at no cost and is intended for use as is.
 
 ### Personal Information 
 
-Calmings Sounds does not collect or request any personal information on its users their devices or usage of the app.   
+Calmings Sounds displays ads from Google AdMob service.
+Google's privacy policy can be found here: https://policies.google.com/privacy?hl=en-US
 
 
 * Email
